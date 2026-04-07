@@ -18,5 +18,5 @@ int main ()
     cout << "isikan data umur : ";
     cin >> mhs.umur;
     cout << endl;
-
+ 
 }
