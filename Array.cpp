@@ -20,7 +20,7 @@ int main ()
     cin >> datamu[3];
     cout << "Isikan data kelima : ";
     cin >> datamu[4];
-    cout << endl;
+    cout << endl; 
 
     cout << "data pertama = " << datamu[0] << endl;
     cout << "data kedua = " << datamu[1] << endl;
