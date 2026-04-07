@@ -26,5 +26,11 @@ int main ()
     cin >> mhs.alamat.desa;
     cout << "isikan data kota : ";
     cin >> mhs.alamat.kota;
+    cout << endl;
 
+    cout << "Data Tampil" << endl;
+    cout << "Nama : " << mhs.nama << endl;
+    cout << "Umur : " << mhs.umur << endl;
+    cout << "Desa : " << mhs.alamat.desa << endl;
+    cout << "Kota : " << mhs.alamat.kota << endl;
 }
