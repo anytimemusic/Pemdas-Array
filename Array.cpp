@@ -26,4 +26,9 @@ int main ()
         cout << "Isikan data ke-" << (i + 1) << " : ";
         cin >> datamu[i];
     }
+    
+    for (int i = 0; i <= 4; i++)
+    {
+        cout << "Data ke-" << (i + 1) << " : " << datamu[i] << endl;
+    }
 }
